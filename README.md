@@ -37,5 +37,3 @@ Framework implements below best practices
 - Supports parallel execution on multiple real Android and iOS devices
 - Integrated with Log4J2 Logging framework (supports basic as well as parallel logging)
 - Integrated with Extent Reporting framework (supports parallel, screenshots, logging test steps)
-
-#AppiumTutorials #PageObjectModel #TestNG
